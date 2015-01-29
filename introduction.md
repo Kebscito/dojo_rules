@@ -3,3 +3,4 @@ My favourite path is iOS of course ;)
 * Java
 * Git
 * Gatling
+* Ruby
